@@ -1,4 +1,6 @@
 Desafio Voxar Labs 2025 - Classificação de Superfícies de Vias
+
+
 Este repositório contém a solução desenvolvida para o desafio técnico de Visão Computacional da Voxar Labs (2025). O objetivo do projeto é classificar imagens de pavimentos em três categorias: Asphalt (Asfalto), Belgian Blocks (Paralelepípedos) e Off-road (Estrada de terra).
 
 O foco principal deste projeto não é apenas a busca pela maior acurácia, mas sim a estruturação do problema, experimentação científica e análise crítica frente a um dataset altamente desbalanceado e com condições visuais desafiadoras (chuva, noite, ruído visual).
